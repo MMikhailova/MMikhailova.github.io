@@ -1,10 +1,10 @@
-# Name of project
+# Personal Home Page for me as a Junior Web Developer
 
-> A longer description
+> In this project I am going to develop personal home page for me as a Junior Web Developer.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Junior Web Developer home page](#name-of-project)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +22,8 @@
 
 ## General info
 
-> A short description
+> Whithin this project I am going to develop a home page for myself as Junior Web Developer by practicing Design Thinking and Collaborative Design.
+>
 
 ## Screenshots
 
@@ -32,6 +33,7 @@
 
 - Node 14.16.0
 - VSC code
+- HTML/CSS
 - JavaScript
 - ...
 - ...
