@@ -1,6 +1,7 @@
 # Personal Home Page for me as a Junior Web Developer
 
-> In this project I am going to develop personal home page for me as a Junior Web Developer.
+> In this project I am going to develop personal home page for me as a Junior
+> Web Developer.
 
 ## Table of contents
 
@@ -22,8 +23,8 @@
 
 ## General info
 
-> Whithin this project I am going to develop a home page for myself as Junior Web Developer by practicing Design Thinking and Collaborative Design.
->
+> Whithin this project I am going to develop a home page for myself as Junior
+> Web Developer by practicing Design Thinking and Collaborative Design.
 
 ## Screenshots
 

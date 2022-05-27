@@ -2,11 +2,90 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>project!</title>
+    <title>Maria-CV</title>
+    <style>
+      body {
+        background-image: url("/Image/laptop.jpg");
+        background-repeat: no-repeat;
+        background-size: 1280px 750px;
+      }
 
-    <link href="./styles/index.css" rel="stylesheet" />
+      .grid-container {
+        display: grid;
+        color: black;
+        row-gap: 50px;
+        padding-top: 250px;
+      }
+
+      .grid-container > div {
+        background-color: rgb(226, 226, 214);
+        font-size: xx-large;
+        margin-left: 80px;
+        padding-top: 8px;
+        width: 300px;
+        margin-top: 3px;
+      }
+
+      .grid-container a {
+        background-color: rgb(226, 226, 214);
+        font-size: 40px;
+        margin-left: 80px;
+        color: black;
+      }
+
+      .right {
+        margin-left: 700px;
+      }
+
+      .right h1 {
+        font-size: 60px;
+        margin-top: -300px;
+      }
+
+      .right h2 {
+        font-size: 45px;
+      }
+
+      .right p {
+        font-size: 20px;
+      }
+
+      .align:nth-child(2n + 2) {
+        margin-left: 150px;
+      }
+
+      .align2:nth-child(2n + 2) {
+        margin-left: 150px;
+      }
+
+      img {
+        width: 190px;
+        float: right;
+        margin-right: 125px;
+        margin-top: -290px;
+      }
+    </style>
   </head>
-  <body></body>
+
+  <body>
+    <div class="grid-container">
+      <div><a href="About me.html">About</a></div>
+      <div class="align"><a href="Experience">Experience</a></div>
+      <div><a href="Skill">Skill</a></div>
+      <div class="align2"><a href="Contact">Contact</a></div>
+    </div>
+    <div class="right">
+      <h1>Hello!</h1>
+      <h2>I am Maria</h2>
+      <p>
+        Web developer<br />
+        UX/UI designer
+      </p>
+    </div>
+    <div>
+      <img src="/Image/Background.png" alt="maria" />
+    </div>
+  </body>
 </html>
